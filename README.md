@@ -1,4 +1,4 @@
-[](https://github.com/adshishkov/adshishkov/blob/main/assets/Hi.png?raw=true)
+![](https://github.com/adshishkov/adshishkov/blob/main/assets/Hi.gif?raw=true)
 
 
 ## **🤴🏻 About me**
@@ -22,3 +22,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adshishkov&layout=compact&langs_count=8&theme=midnight-purple"/>
 </a>
 </p>
+
