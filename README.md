@@ -7,10 +7,10 @@
 
 ## **🤝🏻 Socials**
 [![Telegram](https://img.shields.io/badge/-Telegram-27A0D9?style=flat&logo=telegram&logoColor=27A0D9&labelColor=FFFFFF)](https://t.me/adshishkov)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-4F7DB3?style=flat&logo=Vk&logoColor=4F7DB3&labelColor=FFFFFF)](https://vk.com/98ads)
+[![Vkontakte](https://img.shields.io/badge/-VK-4F7DB3?style=flat&logo=Vk&logoColor=4F7DB3&labelColor=FFFFFF)](https://vk.com/98ads)
 [![Instagram](https://img.shields.io/badge/-Instagram-B4068E?style=flat&logo=instagram&logoColor=B4068E&labelColor=FFFFFF)](https://www.instagram.com/a.d.shishkov)
 [![Steam](https://img.shields.io/badge/-Steam-c7d5e0?style=flat&logo=Steam&logoColor=c7d5e0&labelColor=FFFFFF)](https://steamcommunity.com/id/adshishkov/)
-[![Discord](https://img.shields.io/badge/-Discrord-7289d9?style=flat&logo=Discord&logoColor=7289d9&labelColor=FFFFFF)](https://discordapp.com/users/717833963703369740/)
+[![Discord](https://img.shields.io/badge/-Discord-7289d9?style=flat&logo=Discord&logoColor=7289d9&labelColor=FFFFFF)](https://discordapp.com/users/717833963703369740/)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=FF0000&labelColor=FFFFFF)](https://www.youtube.com/channel/UCqG7LW2dotN3cEiVGcSGVOg)
 [![Twitch](https://img.shields.io/badge/-Twitch-9147fe?style=flat&logo=Twitch&logoColor=9147fe&labelColor=FFFFFF)](https://www.twitch.tv/adshishkov)
 
