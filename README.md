@@ -20,4 +20,3 @@
 
 ![adshishkov GitHub stats](https://github-readme-stats.vercel.app/api?username=adshishkov&show_icons=true&theme=outrun)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adshishkov&layout=compact)](https://github.com/adshishkov/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adshishkov&repo=samp)](https://github.com/adshishkov/samp)
