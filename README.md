@@ -15,7 +15,7 @@
 [![Twitch](https://img.shields.io/badge/-Twitch-9147fe?style=flat&logo=Twitch&logoColor=9147fe&labelColor=FFFFFF)](https://www.twitch.tv/adshishkov)
 
 
-## **📈  GitHub Analytics**
+## **📊  GitHub Analytics**
 
 <p align="left">
 <a href="https://github.com/adshishkov">
